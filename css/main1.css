@@ -120,7 +120,7 @@ footer p {
 header.shadow {
   position: fixed;
   width: 100%;
-  visibility: visible;
+  /*visibility: visible;*/
 }
 
 
